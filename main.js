@@ -815,15 +815,15 @@ function renderGallery() {
 
         "https://amitmahanta802-dotcom.github.io/project-eclipse/photo1.jpg",
 
-        "images/gallery/photo2.jpg",
+        "https://amitmahanta802-dotcom.github.io/project-eclipse/photo2.jpg",
 
-        "images/gallery/photo3.jpg",
+        "https://amitmahanta802-dotcom.github.io/project-eclipse/photo3.jpg",
 
-        "images/gallery/photo4.jpg",
+        "https://amitmahanta802-dotcom.github.io/project-eclipse/photo4.jpg",
 
-        "images/gallery/photo5.jpg",
+        "https://amitmahanta802-dotcom.github.io/project-eclipse/photo5.jpg",
 
-        "images/gallery/photo6.jpg"
+        "https://amitmahanta802-dotcom.github.io/project-eclipse/photo6.jpg"
 
     ];
 
