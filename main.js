@@ -813,7 +813,7 @@ function renderGallery() {
 
     const photos = [
 
-        "/photo1.jpg",
+        "/project-eclipse/photo1.jpg",
 
         "images/gallery/photo2.jpg",
 
