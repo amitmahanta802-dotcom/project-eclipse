@@ -813,7 +813,7 @@ function renderGallery() {
 
     const photos = [
 
-        "images/gallery/photo1.jpg",
+        "./photo1.jpg",
 
         "images/gallery/photo2.jpg",
 
