@@ -1001,7 +1001,8 @@ function renderLoveLetter() {
                         I never know what to expect when we start talking 😂
                          Sometimes it's all jokes and teasing,
                           sometimes the conversation takes a serious turn,
-                         and sometimes you surprise me with your caring side. 😁
+                         and sometimes you surprise me with your caring side. 😁 
+                         Honestly, that's what makes talking to you so special! ❤️
                     </p>
 
                     <p>
