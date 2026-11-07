@@ -1490,26 +1490,27 @@ function renderEnding() {
                 </div>
 
                 <p class="ending-label">
-                    THE END OF THIS LITTLE JOURNEY
+                    A LITTLE WISH FOR YOU 🎀
                 </p>
 
                 <h1 class="ending-title">
-                    Keep Smiling, Mili ❤️
+                     Just Keep Smiling, Mili ❤️
                 </h1>
 
                 <p class="ending-message">
-                    And just like that, our little
-                    journey comes to an end.
+                    I just wanted to make your
+                    birthday a little different this year.
                     <br><br>
-                    But I hope the smile this little
-                    surprise brought to you stays
-                    a little longer.
+                    And I hope this little effort 
+                    makes you feel as special as you
+
+*truly are.
                 </p>
 
                 <p class="ending-special">
-                    May your life always be filled
-                    with beautiful moments,
-                    happiness and love. ✨
+                    May every day bring you new reasons
+                    to smile, and may life 
+                    surprise you with all the happiness you deserve.
                 </p>
 
                 <div class="ending-divider">
